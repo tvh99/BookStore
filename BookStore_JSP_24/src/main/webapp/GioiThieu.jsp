@@ -6,8 +6,8 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@page import="vn.com.stanford.je0824.bookstore.model.*,vn.com.stanford.je0824.bookstore.entities.*" %>
-<%@page import="vn.com.stanford.je0824.bookstore.servlet.*" %>
+<%@page import="vn.com.bookstore.model.*,vn.com.bookstore.entities.*" %>
+<%@page import="vn.com.bookstore.servlet.*" %>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
 <head>
