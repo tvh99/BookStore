@@ -14,7 +14,7 @@
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
 <head>
-    <title>Thêm hoặc sửa sách</title>
+    <title>Thêm hoặc sửa chủ đề</title>
 </head>
 <body>
 <%
@@ -43,7 +43,7 @@
 
 <form method="post" action="ChuDeServlet">
     <fieldset>
-        <legend>Nhập thông tin sách</legend>
+        <legend>Nhập thông tin chủ đề</legend>
         <table>
             <tr>
                 <td>
