@@ -13,7 +13,7 @@
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
 <head>
-    <title>Quản lý thông tin chủ đề</title>
+    <title>Quản lý chủ đề</title>
 </head>
 <%
     //Khai báo danh sách chủ đề
@@ -27,7 +27,7 @@
 <%@include file="header.jsp" %>
 <%@include file="menu.jsp" %>
 <div style="width:100%; text-align:center;">
-    <h2 style="text-transform: uppercase;">Quản lý thông tin sách</h2>
+    <h2 style="text-transform: uppercase;">Quản lý chủ đề</h2>
 </div>
 <form method="post">
 
